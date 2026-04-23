@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+tushare
+plotly
+streamlit
+python-dotenv
